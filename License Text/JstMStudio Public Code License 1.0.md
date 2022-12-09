@@ -1,5 +1,5 @@
-<p style="text-align:left;">JstMStudio Public Code License 1
-<p>Version 1, 1 January 2023
+<p style="text-align:center;">JstMStudio Public Code License 1</p>
+<p style="text-align:center;">Version 1, 1 January 2023</p>
 <p>Copyright (C) 2023 JstMStudio. <https://jstmstudio.tk/> Everyone is permitted to copy and distribute verbatim copies of this license document.
 <p style="font-weight:bold;">Terms</p>
 <p style="font-weight:bold;">1. Source Code.</p>
